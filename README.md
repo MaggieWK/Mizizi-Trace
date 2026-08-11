@@ -1,4 +1,4 @@
-# Miziziroots — Mizizi Trace
+ Mizizi Trace
 
 **Redefining who controls value creation.**
 
