@@ -12,7 +12,7 @@ One order. Four completely different outputs, depending on who's reading:
 
 | Audience | What they see |
 |---|---|
-| **Farmer / Cooperative** | Plain-language season summary, cumulative delivery and payment record, no jargon. English or Kiswahili, selectable, with a bilingual downloadable report. |
+| **Farmer / Cooperative** | Season summary, cumulative delivery and payment record, with a bilingual downloadable report. |
 | **Consumer** | A personal, story-first impact receipt for one purchase — units, carbon avoided, an impact tier. |
 | **Procurement / Distributor** | Order-level volume, the actual compliance document (EU Due Diligence Statement or Gulf halal/traceability preview), and a checklist of required export documents. |
 | **Stakeholder / Investor** | Full IRIS+ and GHG Protocol-referenced detail — climate, sequestration, circularity, water, and social metrics, each tagged with the standard it's measured against, plus SDG alignment. |
