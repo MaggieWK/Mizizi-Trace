@@ -1,0 +1,17 @@
+id,label,hs_code,eudr_scope,unit,usd_per_kg,sdg_tags,notes
+coffee,Coffee,0901.21 - Roasted coffee,TRUE,servings,0.85,"SDG 1, SDG 8, SDG 13",
+cocoa,Cocoa,1801.00 - Cocoa beans,TRUE,bars,0.95,"SDG 1, SDG 8, SDG 13",
+cattle,Livestock / beef,0201/0202 - Bovine meat,TRUE,servings,2.10,"SDG 2, SDG 8, SDG 13",
+palm,Palm oil,1511.10 - Crude palm oil,TRUE,litres,0.60,"SDG 8, SDG 13, SDG 15",
+rubber,Rubber,4001.21 - Natural rubber,TRUE,kg processed,0.55,"SDG 8, SDG 12",
+soy,Soy,1201.90 - Soybeans,TRUE,kg,0.40,"SDG 2, SDG 13",
+wood,Timber / wood products,4407 - Sawn wood,TRUE,board-ft equiv.,0.30,"SDG 13, SDG 15",
+cassava,Cassava,0714.10 - Cassava fresh/dried,FALSE,kg root equiv.,0.18,"SDG 1, SDG 2, SDG 12",
+tea,Tea,0902.30 - Fermented tea,FALSE,servings,0.70,"SDG 1, SDG 8",
+cashew,Cashew,0801.32 - Shelled cashew nuts,FALSE,portions,1.40,"SDG 1, SDG 8",
+macadamia,Macadamia / tree nuts,0802.62 - Shelled macadamia,FALSE,portions,2.60,"SDG 1, SDG 15",
+avocado,Avocado,0804.40 - Avocados fresh,FALSE,portions,0.75,"SDG 2, SDG 8",
+produce,Fresh fruit and vegetables,0709/0810 - Fresh produce,FALSE,portions,0.35,"SDG 2, SDG 12",
+flowers,Cut flowers,0603 - Cut flowers,FALSE,stems,1.10,SDG 8,
+dairy,Dairy,0401 - Milk and cream,FALSE,servings,0.50,"SDG 2, SDG 8",
+other,Other,See customs classification,FALSE,units,0.50,SDG 8,add new rows here for new crops

@@ -1,0 +1,4 @@
+id,name,district,country,latitude,longitude,forest_baseline_year,certification,risk_classification
+sample-ea,Sample Site - East Africa,Sample district East Africa,East Africa,-1.9440,30.0619,2014,Rainforest Alliance,standard
+sample-wa,Sample Site - West Africa,Sample district West Africa,West Africa,6.5244,3.3792,2017,Organic (EU),standard
+sample-sa,Sample Site - South Asia,Sample district South Asia,South Asia,11.0168,76.9558,2011,Fairtrade,standard
